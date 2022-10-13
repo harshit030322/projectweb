@@ -1,0 +1,20 @@
+body
+{
+	background-image: url("janita-sumeiko-ZK1WQDMQvik-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.background
+{
+	max-width:700px;
+	padding: 20px;
+	position: relative;
+	margin: 20px auto;
+	background: #f0ffb8;
+	font-family: Quicksand;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
